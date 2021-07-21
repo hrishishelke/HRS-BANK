@@ -1,3 +1,4 @@
 # HRS-BANK
 
-this project is Simple bank system.using javascript,php,mysql.
+This project is Simple Bank System.Using Javascript,Php,Mysql.
+Three Pages Using VIEW ALL USER,TRNSACTION PAGE,TRANSACTION HISTORY.
